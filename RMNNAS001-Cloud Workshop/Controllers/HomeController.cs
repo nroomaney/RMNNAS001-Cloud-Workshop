@@ -15,7 +15,7 @@ namespace RMNNAS001_Cloud_Workshop.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "INF2010S Cloud Workshop.";
 
             return View();
         }
